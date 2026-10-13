@@ -1,0 +1,6 @@
+data/
+*.db
+logs/
+__pycache__/
+.venv/
+report/charts/
